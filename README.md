@@ -80,5 +80,3 @@ JavaScript combines **interpretation** and **compilation**:
 This simplified overview of the V8 engine highlights its key stages: parsing, interpretation, and JIT compilation. Following best practices will help you write performant and efficient JavaScript code.
 
 --- 
-
-Let me know if you'd like further refinements!
