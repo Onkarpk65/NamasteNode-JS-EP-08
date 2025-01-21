@@ -1,7 +1,3 @@
-Here's the revised and concise version of your document on the V8 JS Engine, correcting grammatical mistakes and improving readability:
-
----
-
 # Namaste Node.js - Episode 08 | A Deep Dive into the V8 JS Engine
 
 In this episode, we explore the inner workings of the V8 JavaScript Engine, focusing on the **parsing, interpreting, and compiling** stages.
